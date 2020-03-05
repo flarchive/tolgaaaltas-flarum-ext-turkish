@@ -1,0 +1,31 @@
+clarkwinkelmann-who-read:
+    forum:
+        tooltip:
+            last_read_at: "{username}, {ago} okudu"
+            last_read_at_behind: "{username} en son {ago} okudu"
+            last_read_at_up_to_date: "{username} son gönderiyi {ago} okudu"
+        show-more: Diğer {count} kullancıyı göster
+        stats:
+            to_end: "{count} kullanıcı sonuna kadar okudu"
+            to_at_least_here: "{count} kullanıcı en son buraya kadar okudu"
+        controls:
+            set-unread: Okunmadı olarak işaretle
+            remove-unread: Okundu olarak işaretle
+        badges:
+            unread: Okunmadı olarak işaretledi
+
+    admin:
+        permissions:
+            heading: Kim okudu
+            see-read: Okuma durumunu göster
+            see-subscription: Abonelik durumunu göster
+            see-unread: Okunmadı olarak işaretleyenleri göster
+            mark-unread: Okunmadı olarak işaretlemelerine izin ver
+        settings:
+            title: Kim okudu ayarları
+            show-in-discussion-list: Okuyanları tartışmada göster
+            show-in-hero: Okuyanları tartışma başlığı kısmında göster
+            show-between-posts: Gönderilerde okunma durumunu göster
+            hide-when-behind: Çok fazla gönderiyi okumadıysa kullanıcıyı gizle
+            max-visible: Daha fazla butonuna tıklanmadan önce gösterilecek kullanıcı sayısı
+            only-groups: Yalnızca bu gruplardaki kullanıcıların okundu durumunu göster
