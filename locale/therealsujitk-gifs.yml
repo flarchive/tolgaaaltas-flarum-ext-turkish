@@ -1,0 +1,13 @@
+therealsujitk:
+  forum:
+    gifs:
+      label: 'GIF ekle'
+      title: 'GIF seç'
+      searchbar: 'GIF ara'
+      search: 'Ara'
+      loading: 'Yükleniyor...'
+      noresults: 'Sonuç yok'
+  admin:
+    gifs:
+      title: 'GIF API Ayarları'
+      giphyAPIkey: 'Giphy API Key'
