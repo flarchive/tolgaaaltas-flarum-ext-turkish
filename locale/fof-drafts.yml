@@ -1,0 +1,15 @@
+fof-drafts:
+  admin:
+    permissions:
+      start: Tartışma için taslak oluştur
+  forum:
+    composer:
+      title: Taslağı Kaydet
+      alert: Taslak kaydedildi.
+      exit_alert: Taslaktaki değişiklikler silinsin mi?
+    dropdown:
+      empty_text: Herhangi bir taslak kaydetmediniz
+      title: Taslaklar
+      button: Taslağı Sil
+      tooltip: => fof-drafts.forum.dropdown.title
+      alert: Taslağınızı silmek istediğine emin misiniz? 
