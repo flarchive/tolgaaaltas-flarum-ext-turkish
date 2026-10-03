@@ -2,13 +2,24 @@
 
 > **Read-only archive of released versions of tolgaaaltas/flarum-ext-turkish.** Not for installation: use [Packagist](https://packagist.org/packages/tolgaaaltas/flarum-ext-turkish) or the [upstream repository](https://github.com/tolgaaaltas/flarum-ext-turkish).
 
-**0** versions archived · Latest: [`1.0.2`](https://github.com/flarchive/tolgaaaltas-flarum-ext-turkish/tree/archive/v1.0.2) · License: `MIT` · Flarum: `^1.0.0`
+**137** versions archived · Latest: [`1.0.2`](https://github.com/flarchive/tolgaaaltas-flarum-ext-turkish/tree/archive/v1.0.2) · License: `MIT` · Flarum: `^1.0.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.0` | 2019-09-22 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/tolgaaaltas-flarum-ext-turkish/tree/archive/v0.0) |
+| `0.1.0` | 2019-07-13 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/tolgaaaltas-flarum-ext-turkish/tree/archive/v0.1.0) |
+| `0.1.10` | 2019-08-03 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/tolgaaaltas-flarum-ext-turkish/tree/archive/v0.1.10) |
+| `0.1.10.1` | 2019-08-03 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/tolgaaaltas-flarum-ext-turkish/tree/archive/v0.1.10.1) |
+| `0.1.10.10` | 2019-09-05 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/tolgaaaltas-flarum-ext-turkish/tree/archive/v0.1.10.10) |
+| `0.1.10.2` | 2019-08-03 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/tolgaaaltas-flarum-ext-turkish/tree/archive/v0.1.10.2) |
+| `0.1.10.3` | 2019-08-03 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/tolgaaaltas-flarum-ext-turkish/tree/archive/v0.1.10.3) |
+| `0.1.10.4` | 2019-08-04 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/tolgaaaltas-flarum-ext-turkish/tree/archive/v0.1.10.4) |
+| `0.1.10.5` | 2019-08-04 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/tolgaaaltas-flarum-ext-turkish/tree/archive/v0.1.10.5) |
+| `0.1.10.6` | 2019-08-10 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/tolgaaaltas-flarum-ext-turkish/tree/archive/v0.1.10.6) |
+
+[View all 137 versions](https://github.com/flarchive/tolgaaaltas-flarum-ext-turkish/tags)
 
 Catalog entry: [packages/tolgaaaltas-flarum-ext-turkish.json](https://github.com/flarchive/archive-index/blob/main/packages/tolgaaaltas-flarum-ext-turkish.json)
 
